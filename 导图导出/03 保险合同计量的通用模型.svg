@@ -1,0 +1,460 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1456.8400000000001" height="4793" viewBox="0 0 1456.8400000000001 4793">
+<style>text{font-family:"Kaiti SC","STKaiti","KaiTi","PingFang SC",sans-serif;fill:#303a2c}.edge{fill:none;stroke:#424b37;stroke-width:1.1;stroke-linejoin:round;stroke-linecap:round}</style>
+<rect width="100%" height="100%" fill="#fdfcf8"/>
+<text x="22" y="31" font-size="24" font-weight="600">第三章　保险合同计量的通用模型</text>
+<text x="22" y="58" font-size="11" fill="#869178">保持课件原章、节、目顺序 · 本章5节 · 课件P94—185</text>
+<text x="22" y="80" font-size="11" fill="#869178">手写底稿：第4、5、6页；经识别、对照原图和课件校对，补全未覆盖内容。</text>
+<path class="edge" d="M 562 215.0 L 567.76 116.0 L 578 116.0"/>
+<path class="edge" d="M 562 215.0 L 567.76 150.5 L 578 150.5"/>
+<path class="edge" d="M 562 215.0 L 567.76 193.5 L 578 193.5"/>
+<path class="edge" d="M 562 215.0 L 567.76 228.0 L 578 228.0"/>
+<path class="edge" d="M 562 215.0 L 567.76 262.5 L 578 262.5"/>
+<path class="edge" d="M 562 215.0 L 567.76 305.5 L 578 305.5"/>
+<path class="edge" d="M 325 823.5 L 330.76 215.0 L 341 215.0"/>
+<path class="edge" d="M 683 393.5 L 688.76 346.0 L 699 346.0"/>
+<path class="edge" d="M 683 393.5 L 688.76 372.0 L 699 372.0"/>
+<path class="edge" d="M 683 393.5 L 688.76 398.0 L 699 398.0"/>
+<path class="edge" d="M 683 393.5 L 688.76 432.5 L 699 432.5"/>
+<path class="edge" d="M 487 621.0 L 492.76 393.5 L 503 393.5"/>
+<path class="edge" d="M 697 681.5 L 702.76 484.0 L 713 484.0"/>
+<path class="edge" d="M 935 557.0 L 940.76 535.5 L 951 535.5"/>
+<path class="edge" d="M 935 557.0 L 940.76 578.5 L 951 578.5"/>
+<path class="edge" d="M 697 681.5 L 702.76 557.0 L 713 557.0"/>
+<path class="edge" d="M 697 681.5 L 702.76 630.0 L 713 630.0"/>
+<path class="edge" d="M 697 681.5 L 702.76 690.0 L 713 690.0"/>
+<path class="edge" d="M 697 681.5 L 702.76 750.0 L 713 750.0"/>
+<path class="edge" d="M 697 681.5 L 702.76 793.0 L 713 793.0"/>
+<path class="edge" d="M 697 681.5 L 702.76 836.0 L 713 836.0"/>
+<path class="edge" d="M 697 681.5 L 702.76 887.5 L 713 887.5"/>
+<path class="edge" d="M 487 621.0 L 492.76 681.5 L 503 681.5"/>
+<path class="edge" d="M 325 823.5 L 330.76 621.0 L 341 621.0"/>
+<path class="edge" d="M 442 1048.0 L 447.76 945.0 L 458 945.0"/>
+<path class="edge" d="M 442 1048.0 L 447.76 1005.0 L 458 1005.0"/>
+<path class="edge" d="M 442 1048.0 L 447.76 1048.0 L 458 1048.0"/>
+<path class="edge" d="M 442 1048.0 L 447.76 1091.0 L 458 1091.0"/>
+<path class="edge" d="M 442 1048.0 L 447.76 1151.0 L 458 1151.0"/>
+<path class="edge" d="M 325 823.5 L 330.76 1048.0 L 341 1048.0"/>
+<path class="edge" d="M 502 1277.5 L 507.76 1200.0 L 518 1200.0"/>
+<path class="edge" d="M 502 1277.5 L 507.76 1226.0 L 518 1226.0"/>
+<path class="edge" d="M 502 1277.5 L 507.76 1269.0 L 518 1269.0"/>
+<path class="edge" d="M 502 1277.5 L 507.76 1312.0 L 518 1312.0"/>
+<path class="edge" d="M 502 1277.5 L 507.76 1346.5 L 518 1346.5"/>
+<path class="edge" d="M 325 823.5 L 330.76 1277.5 L 341 1277.5"/>
+<path class="edge" d="M 487 1434.5 L 492.76 1387.0 L 503 1387.0"/>
+<path class="edge" d="M 487 1434.5 L 492.76 1421.5 L 503 1421.5"/>
+<path class="edge" d="M 487 1434.5 L 492.76 1456.0 L 503 1456.0"/>
+<path class="edge" d="M 487 1434.5 L 492.76 1482.0 L 503 1482.0"/>
+<path class="edge" d="M 325 823.5 L 330.76 1434.5 L 341 1434.5"/>
+<path class="edge" d="M 457 1522.5 L 462.76 1522.5 L 473 1522.5"/>
+<path class="edge" d="M 325 823.5 L 330.76 1522.5 L 341 1522.5"/>
+<path class="edge" d="M 108 2419.0 L 118.44 823.5 L 137 823.5"/>
+<path class="edge" d="M 562 1689.0 L 567.76 1594.0 L 578 1594.0"/>
+<path class="edge" d="M 562 1689.0 L 567.76 1645.5 L 578 1645.5"/>
+<path class="edge" d="M 562 1689.0 L 567.76 1680.0 L 578 1680.0"/>
+<path class="edge" d="M 562 1689.0 L 567.76 1706.0 L 578 1706.0"/>
+<path class="edge" d="M 800 1766.5 L 805.76 1732.0 L 816 1732.0"/>
+<path class="edge" d="M 800 1766.5 L 805.76 1758.0 L 816 1758.0"/>
+<path class="edge" d="M 800 1766.5 L 805.76 1792.5 L 816 1792.5"/>
+<path class="edge" d="M 562 1689.0 L 567.76 1766.5 L 578 1766.5"/>
+<path class="edge" d="M 325 2019.0 L 330.76 1689.0 L 341 1689.0"/>
+<path class="edge" d="M 737.84 1885.0 L 743.6 1833.0 L 753.84 1833.0"/>
+<path class="edge" d="M 737.84 1885.0 L 743.6 1859.0 L 753.84 1859.0"/>
+<path class="edge" d="M 737.84 1885.0 L 743.6 1885.0 L 753.84 1885.0"/>
+<path class="edge" d="M 737.84 1885.0 L 743.6 1911.0 L 753.84 1911.0"/>
+<path class="edge" d="M 737.84 1885.0 L 743.6 1937.0 L 753.84 1937.0"/>
+<path class="edge" d="M 562 2070.5 L 567.76 1885.0 L 578 1885.0"/>
+<path class="edge" d="M 723.84 2083.5 L 729.6 1963.0 L 739.84 1963.0"/>
+<path class="edge" d="M 723.84 2083.5 L 729.6 1989.0 L 739.84 1989.0"/>
+<path class="edge" d="M 961.84 2045.0 L 967.6 2023.5 L 977.84 2023.5"/>
+<path class="edge" d="M 961.84 2045.0 L 967.6 2066.5 L 977.84 2066.5"/>
+<path class="edge" d="M 723.84 2083.5 L 729.6 2045.0 L 739.84 2045.0"/>
+<path class="edge" d="M 723.84 2083.5 L 729.6 2101.0 L 739.84 2101.0"/>
+<path class="edge" d="M 723.84 2083.5 L 729.6 2144.0 L 739.84 2144.0"/>
+<path class="edge" d="M 723.84 2083.5 L 729.6 2195.5 L 739.84 2195.5"/>
+<path class="edge" d="M 562 2070.5 L 567.76 2083.5 L 578 2083.5"/>
+<path class="edge" d="M 695.84 2269.0 L 701.6 2230.0 L 711.84 2230.0"/>
+<path class="edge" d="M 695.84 2269.0 L 701.6 2256.0 L 711.84 2256.0"/>
+<path class="edge" d="M 695.84 2269.0 L 701.6 2282.0 L 711.84 2282.0"/>
+<path class="edge" d="M 695.84 2269.0 L 701.6 2308.0 L 711.84 2308.0"/>
+<path class="edge" d="M 562 2070.5 L 567.76 2269.0 L 578 2269.0"/>
+<path class="edge" d="M 325 2019.0 L 330.76 2070.5 L 341 2070.5"/>
+<path class="edge" d="M 502 2400.5 L 507.76 2340.0 L 518 2340.0"/>
+<path class="edge" d="M 502 2400.5 L 507.76 2366.0 L 518 2366.0"/>
+<path class="edge" d="M 502 2400.5 L 507.76 2392.0 L 518 2392.0"/>
+<path class="edge" d="M 502 2400.5 L 507.76 2418.0 L 518 2418.0"/>
+<path class="edge" d="M 502 2400.5 L 507.76 2452.5 L 518 2452.5"/>
+<path class="edge" d="M 325 2019.0 L 330.76 2400.5 L 341 2400.5"/>
+<path class="edge" d="M 108 2419.0 L 118.44 2019.0 L 137 2019.0"/>
+<path class="edge" d="M 687 2546.0 L 692.76 2507.0 L 703 2507.0"/>
+<path class="edge" d="M 687 2546.0 L 692.76 2533.0 L 703 2533.0"/>
+<path class="edge" d="M 687 2546.0 L 692.76 2559.0 L 703 2559.0"/>
+<path class="edge" d="M 687 2546.0 L 692.76 2585.0 L 703 2585.0"/>
+<path class="edge" d="M 547 2723.0 L 552.76 2546.0 L 563 2546.0"/>
+<path class="edge" d="M 715 2650.0 L 720.76 2611.0 L 731 2611.0"/>
+<path class="edge" d="M 715 2650.0 L 720.76 2637.0 L 731 2637.0"/>
+<path class="edge" d="M 715 2650.0 L 720.76 2663.0 L 731 2663.0"/>
+<path class="edge" d="M 715 2650.0 L 720.76 2689.0 L 731 2689.0"/>
+<path class="edge" d="M 547 2723.0 L 552.76 2650.0 L 563 2650.0"/>
+<path class="edge" d="M 715 2788.0 L 720.76 2723.5 L 731 2723.5"/>
+<path class="edge" d="M 715 2788.0 L 720.76 2775.0 L 731 2775.0"/>
+<path class="edge" d="M 715 2788.0 L 720.76 2818.0 L 731 2818.0"/>
+<path class="edge" d="M 715 2788.0 L 720.76 2852.5 L 731 2852.5"/>
+<path class="edge" d="M 547 2723.0 L 552.76 2788.0 L 563 2788.0"/>
+<path class="edge" d="M 743 2913.0 L 748.76 2887.0 L 759 2887.0"/>
+<path class="edge" d="M 743 2913.0 L 748.76 2913.0 L 759 2913.0"/>
+<path class="edge" d="M 743 2913.0 L 748.76 2939.0 L 759 2939.0"/>
+<path class="edge" d="M 547 2723.0 L 552.76 2913.0 L 563 2913.0"/>
+<path class="edge" d="M 325 2739.5 L 330.76 2723.0 L 341 2723.0"/>
+<path class="edge" d="M 547 2971.5 L 552.76 2971.5 L 563 2971.5"/>
+<path class="edge" d="M 325 2739.5 L 330.76 2971.5 L 341 2971.5"/>
+<path class="edge" d="M 108 2419.0 L 118.44 2739.5 L 137 2739.5"/>
+<path class="edge" d="M 655 3091.0 L 660.76 3026.5 L 671 3026.5"/>
+<path class="edge" d="M 655 3091.0 L 660.76 3061.0 L 671 3061.0"/>
+<path class="edge" d="M 655 3091.0 L 660.76 3095.5 L 671 3095.5"/>
+<path class="edge" d="M 655 3091.0 L 660.76 3147.0 L 671 3147.0"/>
+<path class="edge" d="M 487 3250.5 L 492.76 3091.0 L 503 3091.0"/>
+<path class="edge" d="M 655 3242.0 L 660.76 3190.0 L 671 3190.0"/>
+<path class="edge" d="M 655 3242.0 L 660.76 3216.0 L 671 3216.0"/>
+<path class="edge" d="M 655 3242.0 L 660.76 3242.0 L 671 3242.0"/>
+<path class="edge" d="M 655 3242.0 L 660.76 3268.0 L 671 3268.0"/>
+<path class="edge" d="M 655 3242.0 L 660.76 3294.0 L 671 3294.0"/>
+<path class="edge" d="M 487 3250.5 L 492.76 3242.0 L 503 3242.0"/>
+<path class="edge" d="M 697 3401.5 L 702.76 3328.5 L 713 3328.5"/>
+<path class="edge" d="M 697 3401.5 L 702.76 3371.5 L 713 3371.5"/>
+<path class="edge" d="M 697 3401.5 L 702.76 3423.0 L 713 3423.0"/>
+<path class="edge" d="M 697 3401.5 L 702.76 3474.5 L 713 3474.5"/>
+<path class="edge" d="M 487 3250.5 L 492.76 3401.5 L 503 3401.5"/>
+<path class="edge" d="M 325 3464.0 L 330.76 3250.5 L 341 3250.5"/>
+<path class="edge" d="M 683 3532.0 L 688.76 3532.0 L 699 3532.0"/>
+<path class="edge" d="M 487 3610.0 L 492.76 3532.0 L 503 3532.0"/>
+<path class="edge" d="M 487 3610.0 L 492.76 3575.0 L 503 3575.0"/>
+<path class="edge" d="M 487 3610.0 L 492.76 3601.0 L 503 3601.0"/>
+<path class="edge" d="M 487 3610.0 L 492.76 3627.0 L 503 3627.0"/>
+<path class="edge" d="M 487 3610.0 L 492.76 3653.0 L 503 3653.0"/>
+<path class="edge" d="M 487 3610.0 L 492.76 3679.0 L 503 3679.0"/>
+<path class="edge" d="M 487 3610.0 L 492.76 3705.0 L 503 3705.0"/>
+<path class="edge" d="M 325 3464.0 L 330.76 3610.0 L 341 3610.0"/>
+<path class="edge" d="M 700 3763.0 L 705.76 3737.0 L 716 3737.0"/>
+<path class="edge" d="M 700 3763.0 L 705.76 3763.0 L 716 3763.0"/>
+<path class="edge" d="M 700 3763.0 L 705.76 3789.0 L 716 3789.0"/>
+<path class="edge" d="M 532 3823.5 L 537.76 3763.0 L 548 3763.0"/>
+<path class="edge" d="M 714 3862.5 L 719.76 3815.0 L 730 3815.0"/>
+<path class="edge" d="M 714 3862.5 L 719.76 3841.0 L 730 3841.0"/>
+<path class="edge" d="M 714 3862.5 L 719.76 3867.0 L 730 3867.0"/>
+<path class="edge" d="M 714 3862.5 L 719.76 3901.5 L 730 3901.5"/>
+<path class="edge" d="M 532 3823.5 L 537.76 3862.5 L 548 3862.5"/>
+<path class="edge" d="M 325 3464.0 L 330.76 3823.5 L 341 3823.5"/>
+<path class="edge" d="M 108 2419.0 L 118.44 3464.0 L 137 3464.0"/>
+<path class="edge" d="M 457 4029.5 L 462.76 3956.0 L 473 3956.0"/>
+<path class="edge" d="M 457 4029.5 L 462.76 3982.0 L 473 3982.0"/>
+<path class="edge" d="M 457 4029.5 L 462.76 4008.0 L 473 4008.0"/>
+<path class="edge" d="M 457 4029.5 L 462.76 4034.0 L 473 4034.0"/>
+<path class="edge" d="M 457 4029.5 L 462.76 4060.0 L 473 4060.0"/>
+<path class="edge" d="M 457 4029.5 L 462.76 4094.5 L 473 4094.5"/>
+<path class="edge" d="M 325 4339.0 L 330.76 4029.5 L 341 4029.5"/>
+<path class="edge" d="M 502 4174.0 L 507.76 4135.0 L 518 4135.0"/>
+<path class="edge" d="M 502 4174.0 L 507.76 4161.0 L 518 4161.0"/>
+<path class="edge" d="M 502 4174.0 L 507.76 4187.0 L 518 4187.0"/>
+<path class="edge" d="M 502 4174.0 L 507.76 4213.0 L 518 4213.0"/>
+<path class="edge" d="M 325 4339.0 L 330.76 4174.0 L 341 4174.0"/>
+<path class="edge" d="M 457 4284.0 L 462.76 4245.0 L 473 4245.0"/>
+<path class="edge" d="M 457 4284.0 L 462.76 4271.0 L 473 4271.0"/>
+<path class="edge" d="M 457 4284.0 L 462.76 4297.0 L 473 4297.0"/>
+<path class="edge" d="M 457 4284.0 L 462.76 4323.0 L 473 4323.0"/>
+<path class="edge" d="M 325 4339.0 L 330.76 4284.0 L 341 4284.0"/>
+<path class="edge" d="M 457 4415.5 L 462.76 4355.0 L 473 4355.0"/>
+<path class="edge" d="M 457 4415.5 L 462.76 4389.5 L 473 4389.5"/>
+<path class="edge" d="M 457 4415.5 L 462.76 4424.0 L 473 4424.0"/>
+<path class="edge" d="M 457 4415.5 L 462.76 4450.0 L 473 4450.0"/>
+<path class="edge" d="M 457 4415.5 L 462.76 4476.0 L 473 4476.0"/>
+<path class="edge" d="M 325 4339.0 L 330.76 4415.5 L 341 4415.5"/>
+<path class="edge" d="M 487 4560.0 L 492.76 4508.0 L 503 4508.0"/>
+<path class="edge" d="M 487 4560.0 L 492.76 4534.0 L 503 4534.0"/>
+<path class="edge" d="M 487 4560.0 L 492.76 4560.0 L 503 4560.0"/>
+<path class="edge" d="M 487 4560.0 L 492.76 4586.0 L 503 4586.0"/>
+<path class="edge" d="M 487 4560.0 L 492.76 4612.0 L 503 4612.0"/>
+<path class="edge" d="M 325 4339.0 L 330.76 4560.0 L 341 4560.0"/>
+<path class="edge" d="M 457 4683.0 L 462.76 4644.0 L 473 4644.0"/>
+<path class="edge" d="M 457 4683.0 L 462.76 4670.0 L 473 4670.0"/>
+<path class="edge" d="M 457 4683.0 L 462.76 4696.0 L 473 4696.0"/>
+<path class="edge" d="M 457 4683.0 L 462.76 4722.0 L 473 4722.0"/>
+<path class="edge" d="M 325 4339.0 L 330.76 4683.0 L 341 4683.0"/>
+<path class="edge" d="M 108 2419.0 L 118.44 4339.0 L 137 4339.0"/>
+<text x="22" y="2390.5" font-size="23" font-weight="600">保险合</text>
+<text x="22" y="2416.5" font-size="23" font-weight="600">同计量</text>
+<text x="22" y="2442.5" font-size="23" font-weight="600">的通用</text>
+<text x="22" y="2468.5" font-size="23" font-weight="600">模型</text>
+<text x="146" y="821.0" font-size="18" font-weight="600">第一节　通用模型下</text>
+<text x="146" y="842.0" font-size="18" font-weight="600">保险合同初始计量</text>
+<text x="350" y="212.5" font-size="15" font-weight="600">一、保险合同计量要素及其与</text>
+<text x="350" y="230.5" font-size="15" font-weight="600">保险合同定价的关系</text>
+<text x="587" y="122.0" font-size="14" font-weight="400">保费＝纯保费＋附加保费</text>
+<text x="587" y="148.0" font-size="14" font-weight="400">纯保费：预期赔付现值：纯保费＝E（赔付现金流）＝Σ[Pᵢ×Lᵢ÷(1</text>
+<text x="587" y="165.0" font-size="14" font-weight="400">＋r)ᵗ]；Pᵢ为事故概率，Lᵢ为赔付额，r为折现率，t为赔付时间。</text>
+<text x="587" y="191.0" font-size="14" font-weight="400">附加保费：PV（附加保费）＝PV（运营费用＋风险溢价＋资本成本＋</text>
+<text x="587" y="208.0" font-size="14" font-weight="400">利润）。</text>
+<rect x="585" y="225.04" width="227.88" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="587" y="234.0" font-size="14" font-weight="400">保险合同负债＝履约现金流量＋CSM</text>
+<text x="587" y="260.0" font-size="14" font-weight="400">履约现金流量：未来现金流量现值＋非金融风险调整；未来现金流含</text>
+<text x="587" y="277.0" font-size="14" font-weight="400">保费、赔付和费用，折现将未来金额调为现值。</text>
+<text x="587" y="303.0" font-size="14" font-weight="400">计量假设随报告日更新：定价与会计计量在假设更新、风险调整及利</text>
+<text x="587" y="320.0" font-size="14" font-weight="400">润确认时点上不同。</text>
+<text x="350" y="627.5" font-size="15" font-weight="600">二、未来现金流量</text>
+<text x="512" y="399.5" font-size="14" font-weight="400">未来现金流量的估计要求</text>
+<rect x="706" y="343.04" width="145" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="708" y="352.0" font-size="14" font-weight="400">无偏的概率加权平均值</text>
+<text x="708" y="378.0" font-size="14" font-weight="400">市场变量与可观察价格一致</text>
+<text x="708" y="404.0" font-size="14" font-weight="400">反映计量日当前情况和假设</text>
+<text x="708" y="430.0" font-size="14" font-weight="400">显性估计：分别估计未来现金流量、货币时间价值及非金融风险调整</text>
+<text x="708" y="447.0" font-size="14" font-weight="400">。</text>
+<text x="512" y="687.5" font-size="14" font-weight="400">合同边界：哪些现金流纳入</text>
+<rect x="720" y="464.04" width="173" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="722" y="473.0" font-size="14" font-weight="400">边界依据实质性权利和义务：报告期间存在的实质性权利义务所产生</text>
+<text x="722" y="490.0" font-size="14" font-weight="400">的现金流在合同边界内；区分现有合同与未来合同，不将未来合同的</text>
+<text x="722" y="507.0" font-size="14" font-weight="400">现金流纳入当前组计量。</text>
+<text x="722" y="554.5" font-size="14" font-weight="400">实质性义务终止：两条件同时成</text>
+<text x="722" y="571.5" font-size="14" font-weight="400">立</text>
+<text x="960" y="533.0" font-size="14" font-weight="400">能够重新评估风险并重新定价：企业有实际能力重评合同组合风险，</text>
+<text x="960" y="550.0" font-size="14" font-weight="400">并重定价格或承诺利益以充分反映风险。</text>
+<text x="960" y="576.0" font-size="14" font-weight="400">原保费未考虑重评日后的风险：重评日前对应保费在定价时，未考虑</text>
+<text x="960" y="593.0" font-size="14" font-weight="400">重评日后各期间的相关风险。</text>
+<text x="722" y="619.0" font-size="14" font-weight="400">纳入：保费、赔付及理赔费用：保费及相关现金流；已报案未付、已</text>
+<text x="722" y="636.0" font-size="14" font-weight="400">发生未报告及未来实质义务赔款；随基础项目变动的支付；未分拆的</text>
+<text x="722" y="653.0" font-size="14" font-weight="400">嵌入衍生工具支付；调查、诉讼、查勘和其他理赔费用。</text>
+<text x="722" y="679.0" font-size="14" font-weight="400">纳入：直接归属的获取及维持费用：直接归属组合并分摊到合同的获</text>
+<text x="722" y="696.0" font-size="14" font-weight="400">取现金流；非现金赔偿成本；保单转换、复效、批改等管理维持费用</text>
+<text x="722" y="713.0" font-size="14" font-weight="400">及相关续期佣金。</text>
+<text x="722" y="739.0" font-size="14" font-weight="400">纳入：相关税费、追偿和服务成本：直接产生或分摊的相关流转税、</text>
+<text x="722" y="756.0" font-size="14" font-weight="400">保险保障基金及代扣持有人税费；损余物资和代位追偿；系统合理分</text>
+<text x="722" y="773.0" font-size="14" font-weight="400">摊的固定和可变费用；投资回报／投资相关服务成本。</text>
+<text x="722" y="799.0" font-size="14" font-weight="400">排除：投资回报及分出再保险现金流</text>
+<text x="722" y="825.0" font-size="14" font-weight="400">排除：未来合同及非直接归属成本：未来合同现金流；非直接归属的</text>
+<text x="722" y="842.0" font-size="14" font-weight="400">开发和培训费；人力或资源非正常损耗；一般所得税；不影响持有人</text>
+<text x="722" y="859.0" font-size="14" font-weight="400">支付额的内部账户往来；已分拆适用其他准则的成分现金流。</text>
+<text x="722" y="885.0" font-size="14" font-weight="400">共享基础项目回报：按合同权利义务识别跨组影响，系统合理地分摊</text>
+<text x="722" y="902.0" font-size="14" font-weight="400">。</text>
+<text x="350" y="1054.5" font-size="15" font-weight="600">三、折现率</text>
+<text x="467" y="934.0" font-size="14" font-weight="400">匹配时间价值、现金流与流动性：三个特征：反映货币时间价值及现</text>
+<text x="467" y="951.0" font-size="14" font-weight="400">金流和流动性特征；与相同期限、币种、流动性金融工具的可观察市</text>
+<text x="467" y="968.0" font-size="14" font-weight="400">场价格一致；排除不影响合同现金流的市场因素。</text>
+<text x="467" y="994.0" font-size="14" font-weight="400">与可观察市场信息一致：不随基础项目变动的现金流用不反映该回报</text>
+<text x="467" y="1011.0" font-size="14" font-weight="400">变动的折现率；随基础项目变动的现金流用反映变动的折现率；可分</text>
+<text x="467" y="1028.0" font-size="14" font-weight="400">别计量；名义／实际现金流与折现率应匹配。</text>
+<rect x="465" y="1045.04" width="75" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="467" y="1054.0" font-size="14" font-weight="400">自下而上法：流动性无风险收益率曲线，调整流动性差异等。</text>
+<rect x="465" y="1071.04" width="75" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="467" y="1080.0" font-size="14" font-weight="400">自上而下法：从以公允价值计量的参照资产组合收益率出发，剔除现</text>
+<text x="467" y="1097.0" font-size="14" font-weight="400">金流金额、时间、不确定性差异及仅属资产的信用风险溢价；无需再</text>
+<text x="467" y="1114.0" font-size="14" font-weight="400">调整两者流动性差异。</text>
+<text x="467" y="1140.0" font-size="14" font-weight="400">中国课件规定：自下而上的人民币曲线＝基础曲线＋溢价。基础曲线</text>
+<text x="467" y="1157.0" font-size="14" font-weight="400">：20年内当前无风险收益率；20—40年终极利率过渡曲线；40年以上</text>
+<text x="467" y="1174.0" font-size="14" font-weight="400">终极利率。溢价反映流动性、税收等，不含无关逆周期调整。</text>
+<text x="350" y="1284.0" font-size="15" font-weight="600">四、非金融风险调整</text>
+<rect x="525" y="1197.04" width="215" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="527" y="1206.0" font-size="14" font-weight="400">因承担非金融不确定性要求的补偿</text>
+<text x="527" y="1232.0" font-size="14" font-weight="400">反映自身风险偏好和分散收益</text>
+<text x="527" y="1258.0" font-size="14" font-weight="400">包含合同产生的保险、失效和费用风险：只考虑合同产生的非金融风</text>
+<text x="527" y="1275.0" font-size="14" font-weight="400">险，包括死亡、疾病等保险风险和失效、费用等其他非金融风险；一</text>
+<text x="527" y="1292.0" font-size="14" font-weight="400">般运营风险不包含在内。</text>
+<text x="527" y="1318.0" font-size="14" font-weight="400">不包含一般运营风险</text>
+<text x="527" y="1344.0" font-size="14" font-weight="400">方法与置信水平披露：准则未规定唯一计量方法；若不用置信水平法</text>
+<text x="527" y="1361.0" font-size="14" font-weight="400">确定风险调整，须披露所用技术结果对应的置信水平，便于比较。</text>
+<text x="350" y="1441.0" font-size="15" font-weight="600">五、合同服务边际</text>
+<rect x="510" y="1384.04" width="159" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="512" y="1393.0" font-size="14" font-weight="400">未来服务对应的未赚利润</text>
+<text x="512" y="1419.0" font-size="14" font-weight="400">初始计算包含三项：履约现金流量、终止确认相关资产负债对应现金</text>
+<text x="512" y="1436.0" font-size="14" font-weight="400">流、确认日合同现金流。</text>
+<text x="512" y="1462.0" font-size="14" font-weight="400">净流入 → 确认 CSM：首日不确认盈利。</text>
+<text x="512" y="1488.0" font-size="14" font-weight="400">净流出 → CSM 为零：将首日亏损计入当期费用。</text>
+<text x="350" y="1529.0" font-size="15" font-weight="600">六、举例说明</text>
+<text x="482" y="1520.0" font-size="14" font-weight="400">例3-2的条件与计量表：100份、3年期保险合同；比较初始盈利与亏</text>
+<text x="482" y="1537.0" font-size="14" font-weight="400">损情形，完整数值条件见课件原页。</text>
+<text x="146" y="2016.5" font-size="18" font-weight="600">第二节　通用模型下</text>
+<text x="146" y="2037.5" font-size="18" font-weight="600">保险合同的后续计量</text>
+<text x="350" y="1686.5" font-size="15" font-weight="600">一、后续计量的保险合同负债</text>
+<text x="350" y="1704.5" font-size="15" font-weight="600">类别</text>
+<rect x="585" y="1574.04" width="138.84" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="587" y="1583.0" font-size="14" font-weight="400">未到期责任负债 LRC：已提供服务：释放履约现金流量并摊销CSM，</text>
+<text x="587" y="1600.0" font-size="14" font-weight="400">计入保险服务收入；未来服务：按当前假设重估，相关变动调整CSM</text>
+<text x="587" y="1617.0" font-size="14" font-weight="400">；金融变动另计财务损益或OCI。</text>
+<rect x="585" y="1634.04" width="138.84" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="587" y="1643.0" font-size="14" font-weight="400">已发生赔款负债 LIC：包括已发生已决赔案与已发生未决赔案的相关</text>
+<text x="587" y="1660.0" font-size="14" font-weight="400">履约现金流量；未决赔案未来赔款及费用现值＋非金融风险调整。</text>
+<text x="587" y="1686.0" font-size="14" font-weight="400">未决赔案：已报案与未报案</text>
+<text x="587" y="1712.0" font-size="14" font-weight="400">LIC 不包含 CSM：使用未来赔付现值和非金融风险调整估计。</text>
+<text x="587" y="1764.0" font-size="14" font-weight="400">已发生未决赔案的非金融风险调</text>
+<text x="587" y="1781.0" font-size="14" font-weight="400">整</text>
+<text x="825" y="1738.0" font-size="14" font-weight="400">置信水平法：基于某一置信水平计算非金融风险的补偿。</text>
+<text x="825" y="1764.0" font-size="14" font-weight="400">条件尾部期望法：计算一定损失水平以上的期望值。</text>
+<text x="825" y="1790.0" font-size="14" font-weight="400">其他内部模型：根据企业内部风险模型估算，反映承担非金融风险所</text>
+<text x="825" y="1807.0" font-size="14" font-weight="400">需的额外补偿。</text>
+<text x="350" y="2068.0" font-size="15" font-weight="600">二、未到期责任负债的合同服</text>
+<text x="350" y="2086.0" font-size="15" font-weight="600">务边际的后续计量</text>
+<text x="587" y="1891.0" font-size="14" font-weight="400">CSM 从期初走到期末</text>
+<text x="762.84" y="1839.0" font-size="14" font-weight="400">加入当期归组合同的影响</text>
+<text x="762.84" y="1865.0" font-size="14" font-weight="400">按初始确认折现率计息</text>
+<text x="762.84" y="1891.0" font-size="14" font-weight="400">调整未来服务相关履约现金流变动</text>
+<text x="762.84" y="1917.0" font-size="14" font-weight="400">计入汇兑差额</text>
+<rect x="760.84" y="1934.04" width="159" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="762.84" y="1943.0" font-size="14" font-weight="400">扣除当期提供服务的摊销</text>
+<text x="587" y="2089.5" font-size="14" font-weight="400">什么变动调整 CSM</text>
+<text x="748.84" y="1969.0" font-size="14" font-weight="400">未来服务相关保费经验调整</text>
+<text x="748.84" y="1995.0" font-size="14" font-weight="400">未来现金流量估计变更</text>
+<text x="748.84" y="2051.0" font-size="14" font-weight="400">投资成分与保单贷款的经验差额</text>
+<text x="986.84" y="2021.0" font-size="14" font-weight="400">投资成分：预计应付与实际应付差额：期初预计付款额及到实际应付</text>
+<text x="986.84" y="2038.0" font-size="14" font-weight="400">前的相关金融变动，与当期实际应付金额之差。</text>
+<text x="986.84" y="2064.0" font-size="14" font-weight="400">保单贷款：预计应收与实际应收差额：期初预计收款额及到实际应收</text>
+<text x="986.84" y="2081.0" font-size="14" font-weight="400">前的相关金融变动，与当期实际应收金额之差。</text>
+<text x="748.84" y="2107.0" font-size="14" font-weight="400">未来服务相关 RA 变动</text>
+<rect x="746.84" y="2124.04" width="173" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="748.84" y="2133.0" font-size="14" font-weight="400">当期及过去服务变动不调整：已发生赔款负债履约现金流估计变更，</text>
+<text x="748.84" y="2150.0" font-size="14" font-weight="400">以及不属于未来服务相关保费现金流的其他经验调整，不调整CSM；</text>
+<text x="748.84" y="2167.0" font-size="14" font-weight="400">按当期或过去服务计入相应损益。</text>
+<text x="748.84" y="2193.0" font-size="14" font-weight="400">货币时间价值与金融风险变动：GMM下通常按金融变动额处理，不归</text>
+<text x="748.84" y="2210.0" font-size="14" font-weight="400">入未来服务CSM调整。</text>
+<text x="587" y="2275.0" font-size="14" font-weight="400">如何分摊 CSM</text>
+<text x="720.84" y="2236.0" font-size="14" font-weight="400">第一步：识别保险责任单元</text>
+<text x="720.84" y="2262.0" font-size="14" font-weight="400">第二步：当期与未来服务间分配</text>
+<text x="720.84" y="2288.0" font-size="14" font-weight="400">第三步：当期份额计入损益</text>
+<rect x="718.84" y="2305.04" width="159" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="720.84" y="2314.0" font-size="14" font-weight="400">按服务提供模式系统分配</text>
+<text x="350" y="2407.0" font-size="15" font-weight="600">三、后续计量的例子</text>
+<text x="527" y="2346.0" font-size="14" font-weight="400">有利未来变动 → 增加 CSM</text>
+<text x="527" y="2372.0" font-size="14" font-weight="400">不利未来变动 → 消耗 CSM</text>
+<rect x="525" y="2389.04" width="207.72000000000003" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="527" y="2398.0" font-size="14" font-weight="400">不利变动超过 CSM → 确认亏损</text>
+<text x="527" y="2424.0" font-size="14" font-weight="400">当期实际与预期偏差 → 当期业绩</text>
+<text x="527" y="2450.0" font-size="14" font-weight="400">调节表检查：逐项把期初余额、利息、现金流、估计变更和服务释放</text>
+<text x="527" y="2467.0" font-size="14" font-weight="400">勾稽到期末。</text>
+<text x="146" y="2726.5" font-size="18" font-weight="600">第三节　通用模型下</text>
+<text x="146" y="2747.5" font-size="18" font-weight="600">亏损保险合同组的计</text>
+<text x="146" y="2768.5" font-size="18" font-weight="600">量</text>
+<text x="350" y="2729.5" font-size="15" font-weight="600">一、亏损合同组的计量要求</text>
+<text x="572" y="2552.0" font-size="14" font-weight="400">亏损的两种来源</text>
+<rect x="710" y="2504.04" width="185.88" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="712" y="2513.0" font-size="14" font-weight="400">初始净现金流出 → 首日亏损</text>
+<text x="712" y="2539.0" font-size="14" font-weight="400">未来服务不利变动超过 CSM</text>
+<text x="712" y="2565.0" font-size="14" font-weight="400">CSM 为零，不确认为负的未赚利润</text>
+<rect x="710" y="2582.04" width="201" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="712" y="2591.0" font-size="14" font-weight="400">未到期责任负债＝履约现金流量</text>
+<text x="572" y="2656.0" font-size="14" font-weight="400">未到期责任负债拆分</text>
+<text x="740" y="2617.0" font-size="14" font-weight="400">非亏损部分</text>
+<rect x="738" y="2634.04" width="61" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="740" y="2643.0" font-size="14" font-weight="400">亏损部分</text>
+<text x="740" y="2669.0" font-size="14" font-weight="400">非亏损部分释放 → 服务收入</text>
+<text x="740" y="2695.0" font-size="14" font-weight="400">亏损部分释放 → 冲减服务费用</text>
+<text x="572" y="2794.0" font-size="14" font-weight="400">后续变动的系统分摊</text>
+<text x="740" y="2721.0" font-size="14" font-weight="400">保险服务费用引起的现值减少 H1：H1：因当期发生保险服务费用而</text>
+<text x="740" y="2738.0" font-size="14" font-weight="400">减少的未来现金流量现值；按亏损部分与非亏损部分系统分摊。</text>
+<text x="740" y="2764.0" font-size="14" font-weight="400">风险释放引起的 RA 变动 H2：H2：相关风险释放计入当期损益的R</text>
+<text x="740" y="2781.0" font-size="14" font-weight="400">A变动；当期保险服务收入＝H1a＋H2a；冲减服务费用＝H1b＋H2b</text>
+<text x="740" y="2798.0" font-size="14" font-weight="400">。</text>
+<text x="740" y="2824.0" font-size="14" font-weight="400">保险合同金融变动额 H3</text>
+<text x="740" y="2850.0" font-size="14" font-weight="400">在亏损与其他部分之间分摊：课件给出按两部分占比等系统合理方法</text>
+<text x="740" y="2867.0" font-size="14" font-weight="400">。</text>
+<text x="572" y="2919.0" font-size="14" font-weight="400">履约现金流量变化的影响</text>
+<text x="768" y="2893.0" font-size="14" font-weight="400">不利变动 → 新增亏损并增负债</text>
+<rect x="766" y="2910.04" width="185.88" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="768" y="2919.0" font-size="14" font-weight="400">有利变动 → 先转回亏损部分</text>
+<text x="768" y="2945.0" font-size="14" font-weight="400">有利变动超出亏损 → 确认 CSM</text>
+<text x="350" y="2978.0" font-size="15" font-weight="600">二、亏损合同组计量的例子</text>
+<text x="572" y="2977.5" font-size="14" font-weight="400">计算及图表回查原课件</text>
+<text x="146" y="3461.5" font-size="18" font-weight="600">第四节　通用模型下</text>
+<text x="146" y="3482.5" font-size="18" font-weight="600">保险合同损益</text>
+<text x="350" y="3257.0" font-size="15" font-weight="600">一、保险服务收入</text>
+<text x="512" y="3097.0" font-size="14" font-weight="400">保险服务收入的内涵</text>
+<rect x="678" y="3015.04" width="187" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="680" y="3024.0" font-size="14" font-weight="400">收入反映当期提供服务的对价：企业提供保险合同服务，未到期责任</text>
+<text x="680" y="3041.0" font-size="14" font-weight="400">负债减少；剔除与服务无关的投资成分后确认保险服务收入。</text>
+<text x="680" y="3067.0" font-size="14" font-weight="400">累计收入剔除投资成分</text>
+<text x="680" y="3093.0" font-size="14" font-weight="400">与服务有关的金额＋获取现金流量摊销：保险服务收入＝与提供保险</text>
+<text x="680" y="3110.0" font-size="14" font-weight="400">服务有关的金额＋与保险获取现金流量有关的金额。</text>
+<text x="680" y="3136.0" font-size="14" font-weight="400">直接法与间接法：直接法：期初预期保险服务费用＋RA变动＋CSM摊</text>
+<text x="680" y="3153.0" font-size="14" font-weight="400">销＋其他金额；间接法：未到期责任负债减少额，剔除服务无关变动</text>
+<text x="680" y="3170.0" font-size="14" font-weight="400">及服务相关但预期不能收到对价的变动。</text>
+<text x="512" y="3248.0" font-size="14" font-weight="400">服务收入的主要组成</text>
+<text x="680" y="3196.0" font-size="14" font-weight="400">预期当期保险服务费用</text>
+<text x="680" y="3222.0" font-size="14" font-weight="400">非金融风险调整的有关变动</text>
+<rect x="678" y="3239.04" width="145" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="680" y="3248.0" font-size="14" font-weight="400">合同服务边际当期摊销</text>
+<text x="680" y="3274.0" font-size="14" font-weight="400">其他有关金额与保费经验调整</text>
+<text x="680" y="3300.0" font-size="14" font-weight="400">保险获取现金流量摊销</text>
+<text x="512" y="3407.5" font-size="14" font-weight="400">直接法与间接法的排除项目</text>
+<text x="722" y="3326.0" font-size="14" font-weight="400">期初预期服务费用不包括：亏损部分分摊、投资成分偿付、保单质押</text>
+<text x="722" y="3343.0" font-size="14" font-weight="400">贷款、代扣流转税、获取现金流量及任何RA相关金额。</text>
+<text x="722" y="3369.0" font-size="14" font-weight="400">当期 RA 释放不包括：因未来服务调整CSM的变动、分摊到亏损部分</text>
+<text x="722" y="3386.0" font-size="14" font-weight="400">的金额，以及计入金融变动额的部分。</text>
+<text x="722" y="3412.0" font-size="14" font-weight="400">间接法剔除服务无关变动：收保费、偿还投资成分、保单贷款、代扣</text>
+<text x="722" y="3429.0" font-size="14" font-weight="400">流转税、合同金融变动、获取现金流量摊销、转让给第三方负债的终</text>
+<text x="722" y="3446.0" font-size="14" font-weight="400">止确认。</text>
+<text x="722" y="3472.0" font-size="14" font-weight="400">间接法再剔除预期不能收到对价的变动：即未到期责任负债亏损部分</text>
+<text x="722" y="3489.0" font-size="14" font-weight="400">的变动。</text>
+<text x="350" y="3616.5" font-size="15" font-weight="600">二、保险服务费用</text>
+<text x="512" y="3538.0" font-size="14" font-weight="400">保险服务费用的构成公式</text>
+<rect x="706" y="3512.04" width="425" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="708" y="3521.0" font-size="14" font-weight="400">费用＝已发生赔款及其他相关费用＋保险获取现金流量摊销＋亏损部</text>
+<rect x="706" y="3529.04" width="355" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="708" y="3538.0" font-size="14" font-weight="400">分的确认及转回＋已发生赔款负债相关履约现金流量变动：确认、转</text>
+<text x="708" y="3555.0" font-size="14" font-weight="400">回和估计变动按实际方向计入，不能将所有转回都按增加费用理解。</text>
+<text x="512" y="3581.0" font-size="14" font-weight="400">已发生赔款及其他相关费用</text>
+<text x="512" y="3607.0" font-size="14" font-weight="400">保险获取现金流量摊销</text>
+<text x="512" y="3633.0" font-size="14" font-weight="400">亏损部分的确认、转回与分摊</text>
+<text x="512" y="3659.0" font-size="14" font-weight="400">已发生赔款负债相关履约现金流变动</text>
+<text x="512" y="3685.0" font-size="14" font-weight="400">获取现金流量资产减值及转回</text>
+<rect x="510" y="3702.04" width="117" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="512" y="3711.0" font-size="14" font-weight="400">同样剔除投资成分</text>
+<text x="350" y="3830.0" font-size="15" font-weight="600">三、保险合同金融变动额</text>
+<text x="557" y="3769.0" font-size="14" font-weight="400">保险合同金融变动额</text>
+<rect x="723" y="3734.04" width="187" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="725" y="3743.0" font-size="14" font-weight="400">货币时间价值与金融风险影响</text>
+<text x="725" y="3769.0" font-size="14" font-weight="400">区别金融与非金融通胀假设</text>
+<text x="725" y="3795.0" font-size="14" font-weight="400">根据合同和金融风险性质判断</text>
+<text x="557" y="3868.5" font-size="14" font-weight="400">金融变动额的列报选择</text>
+<text x="739" y="3821.0" font-size="14" font-weight="400">全额计入保险财务损益</text>
+<text x="739" y="3847.0" font-size="14" font-weight="400">或系统分解为损益与 OCI</text>
+<text x="739" y="3873.0" font-size="14" font-weight="400">在保险合同组合层面选择</text>
+<text x="739" y="3899.0" font-size="14" font-weight="400">OCI 剩余期间累计归零：使累计计入财务损益的总额与累计金融变动</text>
+<text x="739" y="3916.0" font-size="14" font-weight="400">总额一致。</text>
+<text x="146" y="4336.5" font-size="18" font-weight="600">第五节　通用模型下</text>
+<text x="146" y="4357.5" font-size="18" font-weight="600">的会计处理</text>
+<text x="350" y="4036.0" font-size="15" font-weight="600">一、基本情形</text>
+<text x="482" y="3962.0" font-size="14" font-weight="400">确认前收款：银行存款／预收保费</text>
+<text x="482" y="3988.0" font-size="14" font-weight="400">获取现金流量归集与确认</text>
+<text x="482" y="4014.0" font-size="14" font-weight="400">初始确认：履约现金流量与 CSM</text>
+<text x="482" y="4040.0" font-size="14" font-weight="400">计息：确认保险财务费用</text>
+<text x="482" y="4066.0" font-size="14" font-weight="400">提供服务：负债释放与 CSM 摊销</text>
+<text x="482" y="4092.0" font-size="14" font-weight="400">发生赔付：确认、支付并核销：完整数值表和多步分录见第159—165</text>
+<text x="482" y="4109.0" font-size="14" font-weight="400">页原课件图表。</text>
+<text x="350" y="4180.5" font-size="15" font-weight="600">二、赔付与费用偏差</text>
+<text x="527" y="4141.0" font-size="14" font-weight="400">区分实际发生与精算预期</text>
+<text x="527" y="4167.0" font-size="14" font-weight="400">当期服务偏差 → 当期损益</text>
+<text x="527" y="4193.0" font-size="14" font-weight="400">未来服务估计变更 → 调整 CSM</text>
+<text x="527" y="4219.0" font-size="14" font-weight="400">亏损时改按亏损部分处理</text>
+<text x="350" y="4290.5" font-size="15" font-weight="600">三、投资成分</text>
+<rect x="480" y="4242.04" width="201" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="482" y="4251.0" font-size="14" font-weight="400">无论保险事项是否发生都须偿还</text>
+<text x="482" y="4277.0" font-size="14" font-weight="400">明确区分时先分拆</text>
+<text x="482" y="4303.0" font-size="14" font-weight="400">不可明确区分时留在履约现金流</text>
+<rect x="480" y="4320.04" width="173" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="482" y="4329.0" font-size="14" font-weight="400">不计入保险服务收入和费用</text>
+<text x="350" y="4422.0" font-size="15" font-weight="600">四、保费变动</text>
+<text x="482" y="4361.0" font-size="14" font-weight="400">期缴续期保费 → 未到期责任负债</text>
+<text x="482" y="4387.0" font-size="14" font-weight="400">经验调整保费：收取与返还：与当期服务有关的经验调整影响保险服</text>
+<text x="482" y="4404.0" font-size="14" font-weight="400">务收入，细节见课件分录。</text>
+<text x="482" y="4430.0" font-size="14" font-weight="400">未来责任变动保全收费</text>
+<text x="482" y="4456.0" font-size="14" font-weight="400">未来责任变动保全付费</text>
+<rect x="480" y="4473.04" width="173" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="482" y="4482.0" font-size="14" font-weight="400">先区分当期服务和未来责任</text>
+<text x="350" y="4566.5" font-size="15" font-weight="600">五、保单质押贷款</text>
+<text x="512" y="4514.0" font-size="14" font-weight="400">本金与利息属于履约现金流量</text>
+<text x="512" y="4540.0" font-size="14" font-weight="400">本金类似投资成分</text>
+<rect x="510" y="4557.04" width="173" height="11.9" fill="#ead05c" opacity=".65"/>
+<text x="512" y="4566.0" font-size="14" font-weight="400">本金不计入服务收入或费用</text>
+<text x="512" y="4592.0" font-size="14" font-weight="400">预期贷款净现金流影响初始 CSM</text>
+<text x="512" y="4618.0" font-size="14" font-weight="400">CSM 按合同组服务模式摊销</text>
+<text x="350" y="4689.5" font-size="15" font-weight="600">六、亏损合同</text>
+<text x="482" y="4650.0" font-size="14" font-weight="400">初始亏损即时计入服务费用</text>
+<text x="482" y="4676.0" font-size="14" font-weight="400">亏损部分与非亏损部分分别核算</text>
+<text x="482" y="4702.0" font-size="14" font-weight="400">后续亏损分摊冲减服务费用</text>
+<text x="482" y="4728.0" font-size="14" font-weight="400">有利变动按顺序转回亏损：具体分录及案例数值见第178—181页。</text>
+<text x="22" y="4773" font-size="10" fill="#97a087">黄色为重点；公式、图片表格与案例条件可回查系统内课件原页。</text></svg>
