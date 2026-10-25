@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+node_modules/
+.vercel/
+.env
+.env.*
+public/
+系统预览.png
+第一章导图预览.png
+挖空复习预览.png
+难度梯度预览.png
+

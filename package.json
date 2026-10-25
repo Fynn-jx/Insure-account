@@ -1,0 +1,13 @@
+{
+  "name": "insure-account-review",
+  "version": "1.0.0",
+  "private": true,
+  "description": "保险会计学：按原章节组织的思维导图、挖空复习与个人内容编辑。",
+  "scripts": {
+    "build": "node scripts/build-static.cjs",
+    "test": "node --test test-study.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
