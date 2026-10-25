@@ -8,4 +8,8 @@ public
 挖空复习预览.png
 难度梯度预览.png
 .env*
+data/handwriting-ocr-raw.json
 
+
+sources/handwritten-*.jpg
+sources/手写导图.html

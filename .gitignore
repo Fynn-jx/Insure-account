@@ -10,4 +10,8 @@ public/
 第一章导图预览.png
 挖空复习预览.png
 难度梯度预览.png
+data/handwriting-ocr-raw.json
 
+
+sources/handwritten-*.jpg
+sources/手写导图.html
